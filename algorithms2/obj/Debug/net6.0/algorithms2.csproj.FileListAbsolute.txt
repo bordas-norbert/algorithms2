@@ -1,0 +1,15 @@
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\bin\Debug\net6.0\algorithms2.exe
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\bin\Debug\net6.0\algorithms2.deps.json
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\bin\Debug\net6.0\algorithms2.runtimeconfig.json
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\bin\Debug\net6.0\algorithms2.dll
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\bin\Debug\net6.0\algorithms2.pdb
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\obj\Debug\net6.0\algorithms2.csproj.AssemblyReference.cache
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\obj\Debug\net6.0\algorithms2.GeneratedMSBuildEditorConfig.editorconfig
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\obj\Debug\net6.0\algorithms2.AssemblyInfoInputs.cache
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\obj\Debug\net6.0\algorithms2.AssemblyInfo.cs
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\obj\Debug\net6.0\algorithms2.csproj.CoreCompileInputs.cache
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\obj\Debug\net6.0\algorithms2.dll
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\obj\Debug\net6.0\refint\algorithms2.dll
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\obj\Debug\net6.0\algorithms2.pdb
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\obj\Debug\net6.0\algorithms2.genruntimeconfig.cache
+F:\NORBI\moshAlgorithms\algorithms2\algorithms2\obj\Debug\net6.0\ref\algorithms2.dll
